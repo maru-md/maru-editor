@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private report from the app
+    url: https://maru.md
+    about: Reports with private details — send them from Maru (Settings → Feedback); they are not published.
+  - name: Email
+    url: mailto:hello@maru.md
+    about: Anything else.
